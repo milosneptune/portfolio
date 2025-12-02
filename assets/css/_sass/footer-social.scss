@@ -33,6 +33,7 @@
 .rounded-social-buttons,
 .fa-facebook-f,
 .fa-linkedin,
+.fa-itch,
 .fa-github,
 .fa-orcid,
 .fa-researchgate,
@@ -62,6 +63,26 @@
   color: #007bb5;
   background: #fefefe;
   border-color: #007bb5;
+}
+
+.rounded-social-buttons .social-button.itch-io {
+  background: #db6661;
+}
+
+.rounded-social-buttons .social-button.itch-io:hover, .rounded-social-buttons .social-button.itch-io:focus {
+  color: #db6661;
+  background: #fefefe;
+  border-color: #db6661;
+}
+
+.rounded-social-buttons .social-button.sketchfab{
+  background: #65a6d4;
+}
+
+.rounded-social-buttons .social-button.sketchfab:hover, .rounded-social-buttons .social-button.sketchfab:focus {
+  color: #65a6d4;
+  background: #fefefe;
+  border-color: #65a6d4;
 }
 
 .rounded-social-buttons .social-button.github {

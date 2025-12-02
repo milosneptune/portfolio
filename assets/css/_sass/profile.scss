@@ -1,25 +1,37 @@
 /* Profile */
 .profile {
-    border-style: solid;
-    border-color: $light-gray;
-    margin-left: 1rem;
-    margin-right: 1rem;
-    margin-bottom: 1rem;
-    border-radius: 6px;
-    border-radius: 50%;
+  //// --- REGULAR BORDER ---
+  // border-style: solid;
+  // border-color: #d27ab4;
+  // margin-left: 1rem;
+  // margin-right: 1rem;
+  // margin-bottom: 1rem;
+  // border-radius: 6px;
+  // border-radius: 0%;
+
+  //// --- SKETCH BORDER ---
+  border-radius: 255px 15px 225px 15px/15px 225px 15px 255px;
+  margin: 1rem;
+  margin-top: 0;
+  line-height: 1.5em;
+  border:solid 5px hsla(320, 49%, 65%, 1); 
+
+  //// --- OTHER SKETCH BORDER
+  
+ 
 }
 
 .left {
-    float: left;
+  float: left;
 }
 
 .right {
-    float: right;
+  float: right;
 }
 
 // adjust tile sizes on smaller screens
 @include media-query($on-phone) {
-  @media screen and (max-width: $on-phone){
+  @media screen and (max-width: $on-phone) {
 
     .profile {
       width: 40%;
