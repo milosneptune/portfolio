@@ -1,10 +1,10 @@
 ### your site title here
 
 title: Milo Qureshi
-description: subtitle | affiliations | motto
+description: Game Designer | Interactive Narratives | RIT
 
 baseurl: /portfolio #name of GitHub repository
-url: "" #custom url to be used instead of GitHub repository
+url: "https://milosneptune.github.io" #custom url to be used instead of GitHub repository
 email: #
 
 # Pagination

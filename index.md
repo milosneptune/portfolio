@@ -26,9 +26,3 @@ Game development continues to inspire me and its multidisciplinary aspect proves
 As a woman of color, I am committed to uplifting others in this field. I understand firsthand the importance of representation, and I seek to help inspire the next generation in a way that wasn't done for me. 
 
 At Rochester Institute of Technology, I'm furthering my knowledge in object-oriented programming languages, game engines, web development, and experience design. I'm seeking internships in interactive media, software development, web development, and 3D modeling to advance my own skills.
-
-<!-- ### Also, check out: -->
-
-<!-- Something will be here? Not sure what yet! -->
-<!-- - [autoCV](https://github.com/jitinnair1/autocv) - a LaTeX template that builds and deploys the CV using GitHub Actions, so you will always have a ready link for your latest CV
-- [Tail](https://github.com/jitinnair1/tail) - a minimal, quick-setup template for a blog -->
