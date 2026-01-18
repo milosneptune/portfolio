@@ -1,10 +1,10 @@
 # Gradfolio
 
 <p align="center">
-<img src="https://snippets.jitin.xyz/assets/img/demo/grad_composite.png" alt="Composite example of the gradfolio theme"/>
+<!-- <img src="https://snippets.jitin.xyz/assets/img/demo/grad_composite.png" alt="Composite example of the gradfolio theme"/> -->
 </p>
 
-responsive, dark-mode ready Jekyll theme designed for use as a personal website and portfolio. [Here's a live demo](https://jitinnair1.github.io/gradfolio/)
+Milo Qureshi's website and portfolio using a responsive, Jekyll theme. [Here's a live demo](https://jitinnair1.github.io/gradfolio/)
 
 ## Preview
 
