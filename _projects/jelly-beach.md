@@ -8,7 +8,7 @@ description: A short game based of a John Roche poem
 <!-- [Jelly Beach](https://www.echoes-vip.org/themes/interactive-chapbooks/jelly-beach){:target="_blank"} -->
 <!-- ============ -->
 
-![alt text](https://www.echoes-vip.org/images/games/jb/JellyBeachHori.png "Jelly Beach")
+![alt text](/portfolio/assets/images/jelly-beach-main.png "Jelly Beach")
 
 [Jelly Beach](https://www.echoes-vip.org/themes/interactive-chapbooks/jelly-beach){:target="_blank"} - *echoes* 
 ------------
@@ -27,11 +27,25 @@ description: A short game based of a John Roche poem
   * Utilized GitHub version control to easily facilitate shared efforts across teams, 
   * Attended bi-weekly playtests, implemented select feedback and engaged with iterative design processes 
   
- 
+#### Concept Art
+Below is some of the concept art I drew when brainstorming Jelly Beach's NPCs. I wanted to make sure the NPCs resembled the fashion of the 1960s, fit the theme of Jelly Beach, and conveyed their roles in the narrative through the limited pixels.   
+
+![alt text](/portfolio/assets/images/jb-concepts-1.png "Concept art 1")
+![alt text](/portfolio/assets/images/jb-concepts-2.png "Concept art 2")
+
+#### Sprites
+Below are some of the final assets and animations I created for the game
+
+![alt text](/portfolio/assets/images/jb-items.png "Item sprites")
+![alt text](/portfolio/assets/images/jb-npcs.png "NPC lineup"){: width="350" }
+![alt text](/portfolio/assets/images/jb-receivedonut-anim.gif "Player recieve donut animation"){: width="100" }
+![alt text](/portfolio/assets/images/jb-eatdonut-anim.gif "Player eating animation"){: width="100" }
+![alt text](/portfolio/assets/images/jb-receiveitem-anim.gif "Player receive animation"){: width="100" }
+
 **Tools:** Unity, GitHub and GitHub Project Boards, Visual Studio, Clip Studio Paint, Aesprite
   
 #### Related Links:
-  * Wiki
+  <!-- * Wiki -->
   <!-- Can i put the wiki link here? can i include a link to the spider page specifically? -->
   * [Game](https://www.echoes-vip.org/themes/interactive-chapbooks/jelly-beach/game){:target="_blank"} 
-  * Design Document
+  <!-- * Design Document -->
