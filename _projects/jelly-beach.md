@@ -8,7 +8,7 @@ description: A short game based of a John Roche poem
 <!-- [Jelly Beach](https://www.echoes-vip.org/themes/interactive-chapbooks/jelly-beach){:target="_blank"} -->
 <!-- ============ -->
 
-![alt text](/portfolio/assets/images/jelly-beach-main.png "Jelly Beach")
+![Jelly Beach Start Screen](/portfolio/assets/images/jelly-beach-main.png "Jelly Beach")
 
 [Jelly Beach](https://www.echoes-vip.org/themes/interactive-chapbooks/jelly-beach){:target="_blank"} - *echoes* 
 ------------
@@ -30,17 +30,17 @@ description: A short game based of a John Roche poem
 #### Concept Art
 Below is some of the concept art I drew when brainstorming Jelly Beach's NPCs. I wanted to make sure the NPCs resembled the fashion of the 1960s, fit the theme of Jelly Beach, and conveyed their roles in the narrative through the limited pixels.   
 
-![alt text](/portfolio/assets/images/jb-concepts-1.png "Concept art 1")
-![alt text](/portfolio/assets/images/jb-concepts-2.png "Concept art 2")
+![Concept art 1](/portfolio/assets/images/jb-concepts-1.png "Concept art 1")
+![Concept art 1](/portfolio/assets/images/jb-concepts-2.png "Concept art 2")
 
 #### Sprites
 Below are some of the final assets and animations I created for the game
 
-![alt text](/portfolio/assets/images/jb-items.png "Item sprites")
-![alt text](/portfolio/assets/images/jb-npcs.png "NPC lineup"){: width="350" }
-![alt text](/portfolio/assets/images/jb-receivedonut-anim.gif "Player recieve donut animation"){: width="100" }
-![alt text](/portfolio/assets/images/jb-eatdonut-anim.gif "Player eating animation"){: width="100" }
-![alt text](/portfolio/assets/images/jb-receiveitem-anim.gif "Player receive animation"){: width="100" }
+![Item sprites](/portfolio/assets/images/jb-items.png "Item sprites")
+![NPC lineup](/portfolio/assets/images/jb-npcs.png "NPC lineup"){: width="350" }
+![Player recieve donut animation](/portfolio/assets/images/jb-receivedonut-anim.gif "Player recieve donut animation"){: width="100" }
+![Player eating animation](/portfolio/assets/images/jb-eatdonut-anim.gif "Player eating animation"){: width="100" }
+![Player receive animation](/portfolio/assets/images/jb-receiveitem-anim.gif "Player receive animation"){: width="100" }
 
 <!-- TODO: talk abt spider and maybe copy paste text from it -->
 <!-- TODO: talk abt level design -->
