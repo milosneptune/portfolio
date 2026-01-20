@@ -44,10 +44,10 @@ collections:
     order:
       - jelly-beach.md
       - rig-my-roll.md
-      - redirect.md
+      - terra.md
       - path-remembrance.md
       - starlit-wanderer.md
-      - project6.md
+      - resting-place.md
 
 sass:
   sass_dir: /assets/css/_sass

@@ -42,6 +42,9 @@ Below are some of the final assets and animations I created for the game
 ![alt text](/portfolio/assets/images/jb-eatdonut-anim.gif "Player eating animation"){: width="100" }
 ![alt text](/portfolio/assets/images/jb-receiveitem-anim.gif "Player receive animation"){: width="100" }
 
+<!-- TODO: talk abt spider and maybe copy paste text from it -->
+<!-- TODO: talk abt level design -->
+
 **Tools:** Unity, GitHub and GitHub Project Boards, Visual Studio, Clip Studio Paint, Aesprite
   
 #### Related Links:
