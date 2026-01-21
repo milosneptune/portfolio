@@ -1,0 +1,142 @@
+<!DOCTYPE html>
+<html>
+
+    <head>
+        <meta charset="utf-8">
+        <meta content="width=device-width, initial-scale=1" name="viewport">
+        <link rel="stylesheet" href="/portfolio/assets/css/main.css">
+
+        <h1 class="post-headline">Milo Qureshi</h1>
+        <h3 class="post-description">Game Designer | Interactive Narratives | RIT</h3>
+
+        <div class="links scroll">
+        <hr>
+        <a href="/portfolio/">Home</a>
+        <!-- <a href="/portfolio/">About</a> -->
+        <a href="/portfolio/projects/">Projects</a>
+        <a href="/portfolio/blog/">Blog</a>
+        <!-- <a href="/portfolio/archive/">Archive</a> -->
+        <a href="/portfolio/assets/misc/Qureshi_Resume_Jan2026.pdf">Resume</a>
+        <hr>
+</div>
+
+
+        <!-- Begin Jekyll SEO tag v2.8.0 -->
+<title>Invisible Walls and Immersion | Milo Qureshi</title>
+<meta name="generator" content="Jekyll v4.4.1" />
+<meta property="og:title" content="Invisible Walls and Immersion" />
+<meta property="og:locale" content="en_US" />
+<meta name="description" content="Invisible walls often break player immersion or don’t feel cohesive within the video game world. How do you go about designing these borders that still feel part of the game world?" />
+<meta property="og:description" content="Invisible walls often break player immersion or don’t feel cohesive within the video game world. How do you go about designing these borders that still feel part of the game world?" />
+<link rel="canonical" href="https://milosneptune.github.io/portfolio/blog/2025/invisible-walls/" />
+<meta property="og:url" content="https://milosneptune.github.io/portfolio/blog/2025/invisible-walls/" />
+<meta property="og:site_name" content="Milo Qureshi" />
+<meta property="og:type" content="article" />
+<meta property="article:published_time" content="2025-11-09T00:00:00+00:00" />
+<meta name="twitter:card" content="summary" />
+<meta property="twitter:title" content="Invisible Walls and Immersion" />
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"BlogPosting","dateModified":"2025-11-09T00:00:00+00:00","datePublished":"2025-11-09T00:00:00+00:00","description":"Invisible walls often break player immersion or don’t feel cohesive within the video game world. How do you go about designing these borders that still feel part of the game world?","headline":"Invisible Walls and Immersion","mainEntityOfPage":{"@type":"WebPage","@id":"https://milosneptune.github.io/portfolio/blog/2025/invisible-walls/"},"url":"https://milosneptune.github.io/portfolio/blog/2025/invisible-walls/"}</script>
+<!-- End Jekyll SEO tag -->
+
+
+        <!-- insert favicons, used https://realfavicongenerator.net/ -->
+<link rel="icon" type="image/png" href="/assets/favicon/favicon-96x96.png" sizes="96x96" />
+<link rel="icon" type="image/svg+xml" href="/assets/favicon/favicon.svg" />
+<link rel="shortcut icon" href="/assets/favicon/favicon.ico" />
+<link rel="apple-touch-icon" sizes="180x180" href="/assets/favicon/apple-touch-icon.png" />
+<link rel="manifest" href="/assets/favicon/site.webmanifest" />
+
+
+        <!-- MathJax -->
+  <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.2/MathJax.js?config=TeX-MML-AM_CHTML">
+  </script>
+
+  <script type="text/x-mathjax-config">
+  MathJax.Hub.Config({
+    tex2jax: { inlineMath: [ ['$','$'], ["\\(","\\)"] ],
+     processEscapes: true
+    }
+  });
+</script>
+
+
+        <!-- Load fontawesome here for faster loadtimes: https://stackoverflow.com/a/35880730/9523246 -->
+        <script type="text/javascript"> (function() { var css = document.createElement('link'); css.href = 'https://use.fontawesome.com/releases/v6.7.2/css/all.css'; css.rel = 'stylesheet'; css.type = 'text/css'; document.getElementsByTagName('head')[0].appendChild(css); })(); </script>
+
+    </head>
+
+    <body>
+        <main>
+            <article>
+                <h1 class="post-headline">Invisible Walls and Immersion</h1>
+<p class="meta"><small>November 09, 2025</small></p>
+<!-- TODO: remove date? -->
+
+<p>Invisible walls often break player immersion or don’t feel cohesive within the video game world. How do you go about designing these borders that still feel part of the game world?</p>
+
+<p>I’ve been reading Jesper Juul’s book, <a href="https://half-real.net/" target="_blank" rel="noopener noreferrer">Half-Real</a>, for <a href="https://www.linkedin.com/in/nicolas-lalone/" target="_blank" rel="noopener noreferrer">Dr. Nick LaLone’s</a> Game Design class. An intriguing chapter discussed the relationship between game space and world space, leading to invisible walls being a common device in video games to denote where the game space ends.</p>
+
+<p>I realized I had encountered this on <a href="https://www.echoes-vip.org/themes/interactive-chapbooks/jelly-beach" target="_blank" rel="noopener noreferrer">Jelly Beach</a>, one of the games part of <a href="https://www.echoes-vip.org/" target="_blank" rel="noopener noreferrer"><em>echoes</em></a>, an RIT Vertically Integrated Project.</p>
+
+<p>In Jelly Beach, you play as a child trading your way to a jelly donut, based on a John Roche poem, Jelly Donut. Because we wanted to emphasize child-like joy and whimsy, our game contains almost no text and leaves most things up to the player’s imagination.</p>
+
+<p>To delineate our game space, we had to come up with a different solution rather than a text box stating “You can’t go any further!” to mark the invisible walls where the player could no longer traverse.</p>
+
+<p>Our solution was to have a spider block the player’s way!</p>
+
+<p>As a game designer and developer, It was my responsibility to implement this border. Initially, the spider was static, but we noticed confusion among play-testers about why they couldn’t move any further, and questioned why the spider was there.</p>
+
+<p>We decided to make the spider move up and down to block the player, still, my instincts said it was a bit dull. Because of this, I decided to take it a step further, by adding a slight delay and animations. This created a more lively experience in line with the game world.</p>
+
+<p>At the time, it was just a design fix and I didn’t realize the importance of developing our invisible walls in this manner.</p>
+
+<p>But after reading Half-Real describe how the “bounds of coherent worlds are motivated by the fiction of the game,” and seeing this be applied in my work, I have grasped how crucial this principle is to design.</p>
+
+<p>It’s incredibly validating to see theory align with the practical work you’ve done, even before fully understanding the theory.</p>
+
+<p><a href="https://www.linkedin.com/posts/milo-qureshi_rit-echoesvip-gamedevelopment-activity-7397321590998192128-amJ9?utm_source=share&amp;utm_medium=member_desktop&amp;rcm=ACoAAFJD9WMBHqfgYeMkZF1O1Ez96emQb7AOhG4" target="_blank" rel="noopener noreferrer">LinkedIn Post</a></p>
+
+
+<!-- Comments only for posts -->
+
+    
+
+
+            </article>
+        </main>
+
+        <footer>
+          <p class="copy">
+            <small> © Milo Qureshi 2026
+                    | Powered by Jekyll and
+                    <a target="_blank" href="https://github.com/jitinnair1/gradfolio/" rel="noopener noreferrer">Gradfolio</a>.
+                    Last updated on 21 January 2026
+            </small>
+          </p>
+
+        <div class="rounded-social-buttons">
+<a title="" class="social-button linkedin" href="https://www.linkedin.com/in/milo-qureshi" itemprop="sameAs" target="_blank" rel="noopener noreferrer">
+<i class="fab fa-linkedin"></i>
+</a><a title="" class="social-button github" href="https://www.github.com/milosneptune" itemprop="sameAs" target="_blank" rel="noopener noreferrer">
+<i class="fab fa-github"></i>
+</a><a title="" class="social-button itch-io" href="https://milosneptune.itch.io/" itemprop="sameAs" target="_blank" rel="noopener noreferrer">
+<i class="fab fa-itch-io"></i>
+</a><a title="" class="social-button sketchfab" href="https://sketchfab.com/squeakyhammer" itemprop="sameAs" target="_blank" rel="noopener noreferrer">
+<i class="fa fa-cube"></i>
+</a>
+</div>
+
+
+        </footer>
+
+        <!-- Google Analytics Tracking code -->
+<script src="https://cdn.jsdelivr.net/npm/ga-lite@1/dist/ga-lite.min.js" async></script>
+<script>
+var galite = galite || {};
+galite.UA = '';
+</script>
+
+    </body>
+
+</html>
