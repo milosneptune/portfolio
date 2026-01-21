@@ -21,9 +21,9 @@ A Resting Place was created by a team of five people over the course of two week
 *Visual of one of the game's stages*
 
 #### Role: Game Designer
-  * Wrote viable game directions, deliver a final game design document, core loop doc, and scope-cut list
-  * Plan out exact player interactions for each level of the game, while keeping narrative intact, translating emotional arc to spatial layout, pacing and experience
-  * Playtest Unity builds often, providing feedback around pacing and confusion points
+  * Wrote viable game directions, delivered a final game design document containing a core loop description, scope-cut list, and player interaction rules
+  * Planned out exact player interactions for each level of the game, while keeping narrative intact, translated emotional arc to spatial layout, pacing and experience
+  * Playtested Unity builds, providing feedback around pacing and adjusting confusion points 
   * Supported team with both technical and artistic knowledge, minimizing confusion beween the two disciplines and enabling for a stronger, faster workflow
 <!-- TODO: fix above bullet points up a lil -->
 
@@ -32,10 +32,16 @@ A Resting Place was created by a team of five people over the course of two week
 **Team Size**: Five people
 
 #### Design
-One of my favorite parts of this game was the slow transition from pixel art to non-pixel. I helped create the pixel art for two of the stages
+It was a challenge to try design a game without any dialogue! I spent many hours ideating on paper about different interactions and stages. I would start with looking at our narrative, and brainstorm objects and environments that would support a certain emotion. For example, hesistant and caution were some of our key words for the first arc---to convey this, I wanted the level to include a ridiculous amount of stop signs, and in the next level, yield signs.  
+
+One of my favorite parts of this game was the slow transition from pixel art to non-pixel. I helped create the pixel art for two of the stages.
 ![Up close view of the phone booth](/portfolio/assets/images/rp-ss2.png)
 ![Visual of stage 1](/portfolio/assets/images/rp-ss4.png)
 ![Visual of stage 2](/portfolio/assets/images/rp-ss5.png)
+
+Unfortunately, due to time constraints, our team wasn't able to add an outline to objects when hovered over---a feature I wrote in to ease the player's confusion. 
+
+
 
 #### Related Links:
 * [Repo](https://github.com/will316work-cloud/thatgamejam){:target="_blank"} 
