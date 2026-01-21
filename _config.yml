@@ -42,12 +42,13 @@ collections:
     output: true
     permalink: /projects/:name/
     order:
-      - jelly-beach.md
-      - rig-my-roll.md
-      - terra.md
-      - path-remembrance.md
-      - starlit-wanderer.md
       - resting-place.md
+      - jelly-beach.md
+      - path-remembrance.md
+      - rig-my-roll.md
+      - starlit-wanderer.md
+      # - terra.md TODO: fix Terra
+
 
 sass:
   sass_dir: /assets/css/_sass

@@ -1,19 +1,34 @@
 ---
 layout: post
 title: Terra
-description: Board game project
+description: Nature and Humanity must cooperate through conflict and disaster to restore the world. 
 ---
 <!-- [A Path to Remembrance](https://milosneptune.itch.io/a-path-to-remembrance){:target="_blank"}
 ============ -->
 
-![path to remembrance](https://img.itch.zone/aW1nLzI0MTkxMjMwLnBuZw==/347x500/I%2BDXnI.png "A Path to Remembrance")
+<!-- ![path to remembrance](https://img.itch.zone/aW1nLzI0MTkxMjMwLnBuZw==/347x500/I%2BDXnI.png "A Path to Remembrance") -->
 
-[A Path to Remembrance](https://milosneptune.itch.io/a-path-to-remembrance){:target="_blank"} - Academic Project
-----
+<!-- [A Path to Remembrance](https://milosneptune.itch.io/a-path-to-remembrance){:target="_blank"} - Academic Project -->
+Terra - Academic Project
+------- 
 
-### What is [a Path to Remembrance](https://milosneptune.itch.io/a-path-to-remembrance){:target="_blank"}? ###
-**A Path to Remembrance** is a short creative GM-less role-playing game, designed to be under 200 words. This RPG was created by [Giovanna Nelson](https://www.linkedin.com/in/giovanna-saywon-nelson/){:target="_blank"} and I. 
+### What is [Terra](){:target="_blank"}? ###
+**Terra** is a print & play cooperative environmental strategy game in which two parties of players seek to restore a demolished urbanscape in their respective images: one seeks to urbanize and repopulate the environment as much as possible, while the other wishes for nature to take the ruin’s place.
 
-Seeking inspiration from childhood and playground games, we wanted to be able to play this RPG anywhere, using what's available to you at the moment. 
+Terra was an academic project made for the course, IGME-220, Game Design & Development I. Our team was made up of five people. Below is a sell sheet I designed.
 
-We decided to go for a more "unconventional" approach to the definition of "role-playing games", and created a journaling game that encourages people to engage in creative thinking processes. 
+![Sell Sheet](/portfolio/assets/images/t-sellsheet.png){:width="400"}
+
+#### Role: Game Designer
+  * Planned out 
+
+**Tools:** 
+
+#### Design
+
+<!-- ![Visual of stage 2](/portfolio/assets/images/rp-ss5.png) -->
+
+#### Related Links:
+* [Print & Play files](/portfolio/assets/misc/Terra_PrintPlay.zip){:target="_blank"} 
+* [Design Document](/portfolio/assets/misc/Terra_Design.pdf){:target="_blank"} 
+<!-- * [Itch.io](https://mirisy.itch.io/a-resting-place){:target="_blank"}  -->
