@@ -9,6 +9,8 @@ description: Nature and Humanity must cooperate through conflict and disaster to
 <!-- ![path to remembrance](https://img.itch.zone/aW1nLzI0MTkxMjMwLnBuZw==/347x500/I%2BDXnI.png "A Path to Remembrance") -->
 
 <!-- [A Path to Remembrance](https://milosneptune.itch.io/a-path-to-remembrance){:target="_blank"} - Academic Project -->
+![Logo](/portfolio/assets/images/terralogo.png)
+
 Terra - Academic Project
 ------- 
 
@@ -20,13 +22,22 @@ Terra was an academic project made for the course, IGME-220, Game Design & Devel
 ![Sell Sheet](/portfolio/assets/images/t-sellsheet.png){:width="400"}
 
 #### Role: Game Designer
-  * Planned out 
+  * Collaborated in a 5-person team to brainstorm and establish an asymmetric cooperative game loop, balancing the tension between urbanization and reclaimed nature
+  * Balanced deck of event cards to inject strategic variance, environmental narrative, and mechanical challenges into each playthrough
+  * Designed comprehensive sell sheet to pitch the game's unique value proposition, mechanics, and "print & play" format clearly and concisely
+  * Coordinated playtesting sessions, documenting player feedback to iterate on balance, clarity, and pacing
 
-**Tools:** 
+**Tools:** Google Docs, Affinity, some card creator i dont remember, the good old paper and pencil
+
+**Team Size:** Five people
 
 #### Design
+Below are the concept layouts for the sell sheet I went through. 
 
-<!-- ![Visual of stage 2](/portfolio/assets/images/rp-ss5.png) -->
+![Concept Layout](/portfolio/assets/images/t-ss1.png){:width="300"}
+![Concept Layout](/portfolio/assets/images/t-ss2.png){:width="300"}
+![Concept Layout](/portfolio/assets/images/t-ss3.png){:width="300"}
+![Concept Layout](/portfolio/assets/images/t-ss4.png){:width="300"}
 
 #### Related Links:
 * [Print & Play files](/portfolio/assets/misc/Terra_PrintPlay.zip){:target="_blank"} 

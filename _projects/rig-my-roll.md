@@ -31,7 +31,8 @@ There were many challenging aspects we faced when creating **Rig My Roll**. The 
 **Tools:** C#, MonoGame Framework, Visual Studio, Trello
 
 **Team Size**: Four people
-<!-- put some diagrams of our uml here !! -->
+
+<!-- TODO: put some diagrams of our uml here !! -->
 
 #### Design & Development 
 It was my role to design and implement our slot machine logic. This was my first time attempting this sort of complex logic. I wanted to make sure our code was as effective as possible with my given skill level. Normally, I would have wrote something super simple, but we needed the ability to manipulate the chances of the slots in different ways. 

@@ -47,7 +47,9 @@ collections:
       - path-remembrance.md
       - rig-my-roll.md
       - starlit-wanderer.md
-      # - terra.md TODO: fix Terra
+      - terra.md 
+      - drover.md
+      # TODO: fix Terra
 
 
 sass:

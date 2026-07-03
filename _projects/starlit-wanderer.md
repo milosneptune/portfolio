@@ -27,5 +27,7 @@ This was quite the large team for my, and other team members, first game jam! Wh
 
 **Tools:** Unity, GitHub, Visual Studio
 
+**Team Size:** Seven people
+
 #### Related Links:
 * [Game](https://granola.gg/town/project/332f794a){:target="_blank"}

@@ -27,6 +27,10 @@ description: A short game based of a John Roche poem
   * Utilized GitHub version control to easily facilitate shared efforts across teams, 
   * Attended bi-weekly playtests, implemented select feedback and engaged with iterative design processes 
   
+**Tools:** Unity, GitHub and GitHub Project Boards, Visual Studio, Clip Studio Paint, Aesprite
+
+**Team Size:** Five people during the time I worked, but Jelly Beach has had nine people total work on the game. The *echoes* organization is around 25-30 people. 
+
 #### Concept Art
 Below is some of the concept art I drew when brainstorming Jelly Beach's NPCs. I wanted to make sure the NPCs resembled the fashion of the 1960s, fit the theme of Jelly Beach, and conveyed their roles in the narrative through the limited pixels.   
 
@@ -44,8 +48,6 @@ Below are some of the final assets and animations I created for the game
 
 <!-- TODO: talk abt spider and maybe copy paste text from it -->
 <!-- TODO: talk abt level design -->
-
-**Tools:** Unity, GitHub and GitHub Project Boards, Visual Studio, Clip Studio Paint, Aesprite
   
 #### Related Links:
   <!-- * Wiki -->
