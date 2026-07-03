@@ -2,6 +2,7 @@
 layout: post
 title: Crochet and Computing
 ---
+Crochet becomes the “text,” and the underlying algorithms, the “code.” The computer (the brain) compiles and executes the code (hands move to create stitches) into a deployed build (crocheted piece).
 
 Crocheting has been one of my hobbies since highschool. I picked it up intially because the thought of being able to create anything appealed to me, and I've always been a very crafty person. From attempting to create sewn garments, to weaving on a loom, it's been sort of my personal endeavor--to gain knowledge in as many crafts as possible. 
 
