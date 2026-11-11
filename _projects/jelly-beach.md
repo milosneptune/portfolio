@@ -31,6 +31,9 @@ description: A short game based of a John Roche poem
 
 **Team Size:** Five people during the time I worked, but Jelly Beach has had nine people total work on the game. The *echoes* organization is around 25-30 people. 
 
+#### Level Design 
+<!-- TODO: talk abt level design -->
+
 #### Concept Art
 Below is some of the concept art I drew when brainstorming Jelly Beach's NPCs. I wanted to make sure the NPCs resembled the fashion of the 1960s, fit the theme of Jelly Beach, and conveyed their roles in the narrative through the limited pixels.   
 
@@ -47,7 +50,6 @@ Below are some of the final assets and animations I created for the game
 ![Player receive animation](/portfolio/assets/images/jb-receiveitem-anim.gif "Player receive animation"){: width="100" }
 
 <!-- TODO: talk abt spider and maybe copy paste text from it -->
-<!-- TODO: talk abt level design -->
   
 #### Related Links:
   <!-- * Wiki -->

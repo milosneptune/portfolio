@@ -8,7 +8,7 @@ url: "https://milosneptune.github.io" #custom url to be used instead of GitHub r
 email: #
 
 # Pagination
-paginate: 4
+paginate: 4 # TODO: what does this do...
 permalink: /blog/:year/:title/
 paginate_path: /blog/page:num/
 
@@ -16,7 +16,7 @@ paginate_path: /blog/page:num/
 linkedin: "milo-qureshi"
 github: "milosneptune"
 itch: "milosneptune"
-sketchfab: "squeakyhammer"
+sketchfab: " "
 
 # Markdown
 highlighter: rouge
@@ -46,10 +46,16 @@ collections:
       - jelly-beach.md
       - path-remembrance.md
       - rig-my-roll.md
-      - starlit-wanderer.md
       - terra.md 
       - drover.md
+      - rfg.md 
+
+      # - starlit-wanderer.md
+   
       # TODO: fix Terra
+      # TODO: fix Drover
+      # TODO: add room for growth
+      # TODO: get images for everything
 
 
 sass:

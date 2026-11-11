@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Drover
-description: ... 
+description: Remain resilient while you herd a lone sheep back to its flock 
 ---
 
 <!-- ![Logo](/portfolio/assets/images/terralogo.png) -->
@@ -9,10 +9,11 @@ description: ...
 Drover - Academic Project
 ------- 
 
-### What is [Drover](){:target="_blank"}? ###
-<!-- **Terra** is a print & play cooperative environmental strategy game in which two parties of players seek to restore a demolished urbanscape in their respective images: one seeks to urbanize and repopulate the environment as much as possible, while the other wishes for nature to take the ruin’s place.
+### What is [Drover](https://milosneptune.itch.io/drover){:target="_blank"}? ###
 
-Terra was an academic project made for the course, IGME-220, Game Design & Development I. Our team was made up of five people. Below is a sell sheet I designed. -->
+Drover is a 2.5D adventure puzzle game, taking place in the isolating wilderness of the mountains. Will you remain resilient and be able to herd a lone sheep back to its flock? Or will you succumb to nature's twisting paths, unable to find the light? 
+
+Drover was an academic project made for the course, IGME-320, Game Design & Development II. Our team was made up of five people. 
 
 
 #### Role: Game Designer
@@ -30,4 +31,4 @@ Terra was an academic project made for the course, IGME-220, Game Design & Devel
 * [Repo](/portfolio/assets/misc/){:target="_blank"} 
 * [Website](/portfolio/assets/misc/){:target="_blank"} 
 * [Design Document](/portfolio/assets/misc/){:target="_blank"} 
-* [Itch](/portfolio/assets/misc/){:target="_blank"} 
+* [Itch](https://milosneptune.itch.io/drover){:target="_blank"} 

@@ -17,12 +17,9 @@ PS: If you liked the theme, do star it on GitHub! -->
 
 Hello! 
 
-I'm Milo Qureshi, I'm a game designer who crafts unique narratives, supported by strong technical skills in programming and 2D art. Currently, I'm a rising junior studying Game Design and Development at the Rochester Institute of Technology.
+I'm Milo Qureshi, I'm a game designer with a love for crafting emotional and impactful narratives, supported by strong technical skills in programming and 2D art. Currently, I'm a rising senior studying Game Design and Development at the Rochester Institute of Technology.
 
-I've always been fascinated by animation. Since high school, I've been doing freelance illustrations and character design. In my later years, I picked up programming as a hobby and joined FIRST Robotics. I was captivated by the software development, and thus I realized I wanted to work in a field that combined visuals, code, and interactivity. 
+At the moment, I am seeking opportunities for interdisciplinary research about culture, people, and games. I am also fascinated by UI/UX design, game design and sociology, critical game studies, and more.
 
-Game development continues to inspire me and its multidisciplinary aspect proves how powerful the game medium can be. I want to develop and design impactful games that make use of its unique medium. 
-
-As a woman of color, I am committed to uplifting others in this field. I understand firsthand the importance of representation, and I seek to help inspire the next generation in a way that wasn't done for me. 
-
-At Rochester Institute of Technology, I'm furthering my knowledge in object-oriented programming languages, game engines, web development, and experience design. I'm seeking internships in interactive media, software development, web development, and 3D modeling to advance my own skills.
+Check out my projects! 
+<!-- add link to projects above -->
