@@ -49,3 +49,5 @@ I have translated the first few rows of the crochet doily into binary.
 ~~~
 
 Again, due to my timeframe, I was unable to fully expand on this project. Perhaps in the future, I'll revisit this idea, and see what I might have missed with fresh eyes and a fresh mind. 
+
+<!-- TODO: grab image of dolly -->

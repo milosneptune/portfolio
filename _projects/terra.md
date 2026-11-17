@@ -27,7 +27,7 @@ Terra was an academic project made for the course, IGME-220, Game Design & Devel
   * Designed comprehensive sell sheet to pitch the game's unique value proposition, mechanics, and "print & play" format clearly and concisely
   * Coordinated playtesting sessions, documenting player feedback to iterate on balance, clarity, and pacing
 
-**Tools:** Google Docs, Affinity, some card creator i dont remember, the good old paper and pencil
+**Tools:** Google Docs, Affinity, the good old paper and pencil
 
 **Team Size:** Five people
 
@@ -42,4 +42,3 @@ Below are the concept layouts for the sell sheet I went through.
 #### Related Links:
 * [Print & Play files](/portfolio/assets/misc/Terra_PrintPlay.zip){:target="_blank"} 
 * [Design Document](/portfolio/assets/misc/Terra_Design.pdf){:target="_blank"} 
-<!-- * [Itch.io](https://mirisy.itch.io/a-resting-place){:target="_blank"}  -->

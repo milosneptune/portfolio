@@ -16,7 +16,7 @@ paginate_path: /blog/page:num/
 linkedin: "milo-qureshi"
 github: "milosneptune"
 itch: "milosneptune"
-sketchfab: " "
+# sketchfab: " "
 
 # Markdown
 highlighter: rouge

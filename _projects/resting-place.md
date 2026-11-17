@@ -4,7 +4,6 @@ title: A Resting Place
 description: Game jam project for thatgamecompany
 ---
 
-
 ![A Resting Place starting screen](/portfolio/assets/images/rp-ss1.png)
 
 [A Resting Place](https://mirisy.itch.io/a-resting-place){:target="_blank"} - Game Jam 
@@ -32,12 +31,17 @@ A Resting Place was created by a team of five people over the course of two week
 **Team Size**: Five people
 
 #### Design
+
+<!-- TODO: grab sketches of the layouts and ideas -->
+
 It was a challenge to try design a game without any dialogue! I spent many hours ideating on paper about different interactions and stages. I would start with looking at our narrative, and brainstorm objects and environments that would support a certain emotion. For example, hesistant and caution were some of our key words for the first arc---to convey this, I wanted the level to include a ridiculous amount of stop signs, and in the next level, yield signs.  
 
 One of my favorite parts of this game was the slow transition from pixel art to non-pixel. I helped create the pixel art for two of the stages.
+
 ![Up close view of the phone booth](/portfolio/assets/images/rp-ss2.png)
 ![Visual of stage 1](/portfolio/assets/images/rp-ss4.png)
 ![Visual of stage 2](/portfolio/assets/images/rp-ss5.png)
+
 
 Unfortunately, due to time constraints, our team wasn't able to add an outline to objects when hovered over---a feature I wrote in to ease the player's confusion. 
 
@@ -45,5 +49,5 @@ Unfortunately, due to time constraints, our team wasn't able to add an outline t
 
 #### Related Links:
 * [Repo](https://github.com/will316work-cloud/thatgamejam){:target="_blank"} 
-* [Design Document](https://docs.google.com/document/d/1Ld82-0BHNZZ8GDwAhMKpEgKGVmNkluY9HQmmXL49kew/edit?usp=sharing){:target="_blank"} 
+* [Design Document](/portfolio/assets/misc/rp-gdd.pdf){:target="_blank"} 
 * [Itch.io](https://mirisy.itch.io/a-resting-place){:target="_blank"} 

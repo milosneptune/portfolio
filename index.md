@@ -21,5 +21,5 @@ I'm Milo Qureshi, I'm a game designer with a love for crafting emotional and imp
 
 At the moment, I am seeking opportunities for interdisciplinary research about culture, people, and games. I am also fascinated by UI/UX design, game design and sociology, critical game studies, and more.
 
-Check out my projects! 
+Check out my [projects!](/portfolio/projects/) 
 <!-- add link to projects above -->
