@@ -3,7 +3,7 @@ layout: post
 title: Less is More?
 ---
 
-A couple thoughts regarding abstraction in *[Room for Growth's]*(/portfolio/projects/rfg/) design
+A couple thoughts regarding abstraction in [Room for Growth's](/portfolio/projects/rfg/) design
 
 # What is Abstraction?
 Abstraction is defined as a separation, or a pulling away from concrete physical reality, and into a theoretical lens. For video games, abstractions and jumps in logic can be found all over the place. They are considered the "mental leaps and bridges" players cross when connecting reality to the virtuality or the suspension of disbelief one engages with to enjoy a fictional piece of media to its fullest potential.

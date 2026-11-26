@@ -1,10 +1,11 @@
 ---
 layout: post
 title: Drover
+# description: ![title card](/portfolio/assets/images/d-title.png) 
 description: Remain resilient while you herd a lone sheep back to its flock 
+# description: <img src="/portfolio/assets/images/d-title.png" alt="a">
 ---
 
-<!-- ![Logo](/portfolio/assets/images/d-logo.png) -->
 ![title card](/portfolio/assets/images/d-title.png)
 
 Drover - Academic Project

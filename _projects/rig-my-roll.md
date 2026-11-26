@@ -32,8 +32,6 @@ There were many challenging aspects we faced when creating **Rig My Roll**. The 
 
 **Team Size**: Four people
 
-<!-- TODO: put some diagrams of our uml here !! -->
-
 #### Design & Development 
 It was my role to design and implement our slot machine logic. This was my first time attempting this sort of complex logic. I wanted to make sure our code was as effective as possible with my given skill level. Normally, I would have wrote something super simple, but we needed the ability to manipulate the chances of the slots in different ways. 
 
@@ -50,5 +48,5 @@ We found this method of weighted chance to be incredibly helpful, as we could "r
 
 #### Related Links:
 * [Repo](https://github.com/milosneptune/Rig-My-Roll){:target="_blank"} 
-* [Design Document](https://docs.google.com/document/d/1NOynjQzR9SYnmqHZo_F6KJ1ViQqpxnBwyExbnPuPQnQ/edit?usp=sharing){:target="_blank"} 
+<!-- * [Design Document](https://docs.google.com/document/d/1NOynjQzR9SYnmqHZo_F6KJ1ViQqpxnBwyExbnPuPQnQ/edit?usp=sharing){:target="_blank"}  -->
 * [Itch.io](https://milosneptune.itch.io/rig-my-roll){:target="_blank"} 

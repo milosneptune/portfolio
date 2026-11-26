@@ -1,14 +1,9 @@
 ---
 layout: post
 title: Terra
-description: Nature and Humanity must cooperate through conflict and disaster to restore the world. 
+description: Nature & Humanity must cooperate through disaster to restore the world
 ---
-<!-- [A Path to Remembrance](https://milosneptune.itch.io/a-path-to-remembrance){:target="_blank"}
-============ -->
 
-<!-- ![path to remembrance](https://img.itch.zone/aW1nLzI0MTkxMjMwLnBuZw==/347x500/I%2BDXnI.png "A Path to Remembrance") -->
-
-<!-- [A Path to Remembrance](https://milosneptune.itch.io/a-path-to-remembrance){:target="_blank"} - Academic Project -->
 ![Logo](/portfolio/assets/images/terralogo.png)
 
 Terra - Academic Project
